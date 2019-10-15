@@ -1,5 +1,11 @@
 
-
+.white--link {
+    color: $white-color !important;
+    &:hover,
+    &:focus{
+        color: $info-color !important;
+    }
+}
 
 a{
     color: $primary-color;
