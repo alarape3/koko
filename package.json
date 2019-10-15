@@ -1,7 +1,7 @@
 {
-  "name": "oreo-hospital",
+  "name": "koko",
   "version": "1.2.0",
-  "description": "Oreo Hopital bootsrtap4 Angular5 with Frontend Website with PSD",
+  "description": "Koko Hopital",
   "main": "Gruntfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,6 +12,7 @@
     "grunt": "^1.0.2"
   },
   "devDependencies": {
+    "grunt-contrib-jshint": "^2.1.0",
     "grunt-contrib-uglify": "^3.3.0",
     "grunt-sass": "^2.1.0"
   }
