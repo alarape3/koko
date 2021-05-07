@@ -9,7 +9,7 @@
   "author": "thememakker.com",
   "license": "ISC",
   "dependencies": {
-    "grunt": "^1.0.2"
+    "grunt": "^1.3.0"
   },
   "devDependencies": {
     "grunt-contrib-jshint": "^2.1.0",
